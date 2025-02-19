@@ -1,0 +1,12 @@
+{
+  "name": "book-review-backend",
+  "version": "1.0.0",
+  "description": "Backend for the book review app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
